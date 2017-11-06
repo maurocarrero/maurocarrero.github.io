@@ -1,0 +1,19 @@
+{
+  "name": "maurocarrero.github.io",
+  "version": "1.0.0",
+  "description": "Personal Github page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maurocarrero/maurocarrero.github.io.git"
+  },
+  "author": "Mauro Carrero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maurocarrero/maurocarrero.github.io/issues"
+  },
+  "homepage": "https://github.com/maurocarrero/maurocarrero.github.io#readme"
+}
